@@ -23,6 +23,9 @@ In this, if you provide any food related photos so it will tell you about photo'
 
 # About files - 
 app.py - it is a file for streamlit, so that it can showcase our project.
+
 main.py - it is a file where all the logics written.
+
 requirements.txt - it is for installing all the nessesary requirements.
-download - it is a photo for experientation.
+
+download - it is a photo for experimentation.
