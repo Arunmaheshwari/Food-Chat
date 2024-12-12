@@ -1,4 +1,4 @@
-# Food 
+# Food chat
 
 
 This project is basically for give you the response of food photos by using Gemini LLM.
