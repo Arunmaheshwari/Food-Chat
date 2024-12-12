@@ -10,8 +10,8 @@ This project is basically for give you the response of food photos by using Gemi
 2. Create Virtual Envvirnment
 3. Install requirements.txt file by this command 
 
-     " pip install -r requirements.txt"
-     
+     "pip install -r requirements.txt"
+
 4. Now finally run this command
 
         "streamlit run app.py"
